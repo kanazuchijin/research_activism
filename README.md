@@ -8,6 +8,6 @@ In addition, an Excel spreadsheet containing pertinent summary information from 
 * [Glorious Framework for Lit Review](articles/glorious_framework_for_lit_review.xlsx)
 
 The second section `assets` contains various documents, scripts, and files used to gather the data.
-* [Research Project Assets](assets/)
+* [Research Project Assets](https://github.com/kanazuchijin/research_activism/tree/main/assets)
 
 The third section `data` contains data collected for this research project. For a description of the housed data, see [data description](https://github.com/kanazuchijin/research_activism/tree/main/data).
